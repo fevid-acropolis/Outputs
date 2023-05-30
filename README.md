@@ -1,4 +1,10 @@
 <h1 align="center">Acropolis Exports</h1>
+
+<h3>fevid.vercel.app :</h3>
+MAIN DEV: @gdsimpson3 @ttaksheel @tepid-neitzen @bsw-g-d-iph6
+<br/>
+DEPLOYMENT: @gdsimpson3
+
 <h3>gdsimpson3.vercel.app :</h3>
 MAIN DEV: @gdsimpson3
 <br/>
@@ -23,9 +29,5 @@ DEPLOYMENT: @ttaksheel
 MAIN DEV: @bsw-g-d-iph6
 <br/>
 DEPLOYMENT: @gdsimpson3
-<!-- 
-<h3>gdsimpson3.vercel.app :</h3>
-MAIN DEV: @gdsimpson3
-<br/>
-DEPLOYMENT: @gdsimpson3
- -->
+
+
