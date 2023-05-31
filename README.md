@@ -30,4 +30,9 @@ MAIN DEV: @bsw-g-d-iph6
 <br/>
 DEPLOYMENT: @gdsimpson3
 
+<h3>lichens.vercel.app :</h3>
+MAIN DEV: @bsw-g-d-iph6
+<br/>
+DEPLOYMENT: @gdsimpson3
+
 
