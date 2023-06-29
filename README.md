@@ -45,4 +45,11 @@ MAIN DEV: @bsw-g-d-iph6
 DEPLOYMENT: @gdsimpson3
 
     https://lichens.vercel.app/
+    
+<h3>Rausnichts.vercel.app :</h3>
+MAIN DEV: @ttaksheel @bsw-g-d-iph6
+<br/>
+DEPLOYMENT: @gdsimpson3 @bsw-g-d-iph6
+
+    https://rausnichts.vercel.app/
 
